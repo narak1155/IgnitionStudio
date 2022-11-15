@@ -517,7 +517,7 @@ body {
 }
 
 #site-main .life-area .grid-images .item-one {
-  background: var(--text-gray);
+  background: background : linear-gradient(#2b1055,#7597de);
   grid-column-start: 1;
   grid-column-end: 8;
   grid-row-start: 2;
