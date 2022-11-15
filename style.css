@@ -349,7 +349,7 @@ ul {
 
 body {
   width: 100%;
-  background: url("./assets/backgroundpng.png") no-repeat;
+  background: background : linear-gradient(#2b1055,#7597de);
   background-size: cover;
 }
 
