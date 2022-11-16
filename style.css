@@ -19,7 +19,7 @@ container {
   max-width: 300px;
 
   /* Center the container in middle on horizontal axis */
-  margin: 0 auto;
+  margin: 100 auto;
 
   /* Add empty space above the container (20% of the view height) */
   margin-top: 20vh;
